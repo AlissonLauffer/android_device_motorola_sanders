@@ -325,9 +325,6 @@
     <!-- Names of the key handler classes -->
     <string name="config_deviceKeyHandlerClass" translatable="false">com.moto.actions.KeyHandler</string>
 
-    <!-- Is the notification LED intrusive? Used to decide if there should be a disable option -->
-    <bool name="config_intrusiveNotificationLed">true</bool>
-
     <!-- Is the battery LED intrusive? Used to decide if there should be a disable option -->
     <!-- <bool name="config_intrusiveBatteryLed">true</bool> -->
 
