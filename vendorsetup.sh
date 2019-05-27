@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-add_lunch_combo lineage_sanders-eng
-add_lunch_combo lineage_sanders-userdebug 
-add_lunch_combo lineage_sanders-user
+add_lunch_combo aosp_sanders-eng
+add_lunch_combo aosp_sanders-userdebug 
+add_lunch_combo aosp_sanders-user
