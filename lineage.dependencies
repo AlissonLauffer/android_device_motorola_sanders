@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "Viper-Devices/proprietary_vendor_motorola_sanders",
+    "target_path": "vendor/motorola/sanders",
+    "branch": "ten"
+  },
+  {
+    "repository": "alissonlauffer/kernel_motorola_sanders",
+    "target_path": "kernel/motorola/sanders",
+    "branch": "ten"
+  },
+  {
+    "repository": "LineageOS/android_system_qcom",
+    "target_path": "system/qcom",
+    "branch": "lineage-17.1"
+  }
+]
